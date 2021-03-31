@@ -1,0 +1,12 @@
+bin/
+packages/
+obj/
+.vs/
+files/
+node_modules/
+
+**/wwwroot/lib/
+
+
+*.csproj.user
+*.pubxml.user
